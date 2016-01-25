@@ -1,0 +1,16 @@
+import java .*;
+class alphabet
+{
+public static void main(String args[])
+{
+String S="BC+DE-=";
+for(int i=0;i<S.length;i++)
+{
+char charat2=s.charat();
+if (characte.isLetter(charat2))
+{
+System.out.println("charat2+"alphabet");
+}
+}
+}
+}
